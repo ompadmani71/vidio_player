@@ -84,7 +84,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     alignment: Alignment.centerRight,
                     child: Text(
-                      "- ${videosList[index].category}",
+                      videosList[index].category,
                       style: const TextStyle(
                         fontSize: 22,
                         color: Colors.white,
