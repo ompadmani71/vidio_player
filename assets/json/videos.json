@@ -1,0 +1,30 @@
+[
+  {
+    "image": "https://cdn.pixabay.com/photo/2015/11/16/16/28/bird-1045954_960_720.jpg",
+    "category": "Bird",
+    "networkVideos" : [
+      "https://media.istockphoto.com/id/1322730133/video/flying-birds-in-formation-large-swarm-of-starlings-in-the-sky.mp4?s=mp4-640x640-is&k=20&c=vkfbwDEvj6Vr3_MuokG1g9gKYL6fymVdUSzudU7Yx6c=",
+      "https://media.istockphoto.com/id/1359576900/video/hummingbird-hovering-in-backlighting-sunlight-slow-motion-and-zoom-in-zoom-out.mp4?s=mp4-640x640-is&k=20&c=eBOQ6_3uYGyG9CAZagESNOAcLEqc7xR4EJM3U-ryFrE=",
+      "https://media.istockphoto.com/id/1297042372/video/macaw-fly-on-a-tree-slow-motion.mp4?s=mp4-640x640-is&k=20&c=hAhU69BmjeW6yOhfZv5XOYi8rSas5JAU3VGXLNx6UTw=",
+      "https://media.istockphoto.com/id/1352266233/video/winter-in-the-duemmer-basin-germany.mp4?s=mp4-640x640-is&k=20&c=2J36wegkYOlFRg1tqObJ_lan_1gJ7U8dgyN2n9pHfRI="
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2013/07/21/13/00/rose-165819_960_720.jpg",
+    "category": "Flowers",
+    "networkVideos" : [
+      "https://media.istockphoto.com/id/1354435242/video/vanessa-atalanta-butterfly-red-admiral-on-pink-zinnia-flower-in-the-garden.mp4?s=mp4-640x640-is&k=20&c=udHdDmZnLoUCcFFQnIWE8G85ztJKMsVnqrTrgqm47c8=",
+     "https://media.istockphoto.com/id/1369154285/video/withered-roses-flowers-falling-on-black-background-a-withered-bouquet-of-roses-background-of.mp4?s=mp4-640x640-is&k=20&c=mTFTHQOaw6RS9I4hRet_4sgWvo9w0pEXRK3i0qaGkjc=",
+      "https://media.istockphoto.com/id/1140317043/video/close-up-flower-timelapse-gymnocalycium-baldianum.mp4?s=mp4-640x640-is&k=20&c=A5g-0CmdAdZOx4Vw1_ovcqSJ4TlP8YaeUoD4rILYTQc="
+    ]
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2020/04/25/01/36/road-5089188_960_720.jpg",
+    "category": "journey",
+    "networkVideos" : [
+      "https://media.istockphoto.com/id/488850263/video/vehicles-crossing-a-viaduct.mp4?s=mp4-640x640-is&k=20&c=GWr7TgnreNtHDQaY8-Z4HFr7Wtc0sEnj6hlQyTVhRpg=",
+      "https://media.istockphoto.com/id/1301925757/video/highway-junction-on-zakopianka-in-poland.mp4?s=mp4-640x640-is&k=20&c=wUOMU2w7OEfSfE7EeN9FowysCXaStaStSSC6g4h8QO4=",
+      "https://media.istockphoto.com/id/1192977736/video/aerial-vehicles-driving-on-a-viaduct.mp4?s=mp4-640x640-is&k=20&c=9rABrAzP5pf2FRZvPtupdOhq9zBpDz3NwjtRgzVqkHQ="
+    ]
+  }
+]
